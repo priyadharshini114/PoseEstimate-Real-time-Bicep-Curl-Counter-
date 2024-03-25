@@ -18,6 +18,8 @@ This Python script leverages OpenCV and MediaPipe to track and analyze human pos
 - OpenCV
 - MediaPipe
 
+## Video Credits
+- The video used in this project is sourced from [Pexels](https://www.pexels.com/).
+
 ## Credits
-This project was inspired by [MediaPipe](https://github.com/google/mediapipe) and utilizes its pose detection model.
-video credits : https://www.pexels.com/ 
+- This project was inspired by [MediaPipe](https://github.com/google/mediapipe) and utilizes its pose detection model.
